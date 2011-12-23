@@ -9,6 +9,6 @@ echo 'check this';
 echo 'another line';
 echo 'test';
 echo 'another test';
-echo 'post-update hook test';
+echo 'post-update hook to update hwdev';
 
 ?>
