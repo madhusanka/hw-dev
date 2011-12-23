@@ -1,1 +1,4 @@
-test line
+<?php
+echo 'test line';
+
+?>
